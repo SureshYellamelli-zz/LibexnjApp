@@ -1,0 +1,19 @@
+{
+  "name": "librarywebapp",
+  "version": "1.0.0",
+  "description": "Library App Demos",
+  "main": "app.js",
+  "dependencies": {
+     "express": "^4.15.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Angular",
+    "JavaScript"
+  ],
+  "author": "Suresh Yellamelli",
+  "license": "MIT"
+}

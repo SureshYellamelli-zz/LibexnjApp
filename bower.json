@@ -1,0 +1,24 @@
+{
+  "name": "librarywebapp",
+  "description": "Library App Demos",
+  "main": "app.js",
+  "authors": [
+    "Suresh Yellamelli"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "JavaScript"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
