@@ -18,7 +18,7 @@ var jsFiles = ['*.js', 'src/**/*.js'];
 //     .pipe(gulp.dest('./src/views'));
 // });
 gulp.task('serve', function(){
-    var options ={
+    var options ={ 
         script: 'app.js',
         delayTime: 1,
         env: {
